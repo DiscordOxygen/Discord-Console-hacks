@@ -1,33 +1,8 @@
 # Discord Console Hacks
 [![License: GPL v3+](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-:warning: **Note:** I'm not affiliated with Discord and do not encourage using any of these scripts. Use everything here at your own risk. This is meant for **educational purposes only** and using these codeblocks may result in your account being disabled/terminated.
+:warning: **Note:** I'm not affiliated with Discord and do not encourage using any of these scripts. Use everything here at your own risk.
 
-***
-
-
-## Community
-
-<details>
-<summary>Join us on Matrix!</summary>
-  
-Matrix is a community-based, decentralized, privacy friendly, end-to-end encrypted (super secure), uncensorable and open source messaging protocol, which, unlike Discord, promotes custom clients and modifications. There are multiple different clients available, the most popular one (and also the reference implementation) is Element. It runs on most operating systems and also has a pretty good web version. For more information, check out https://matrix.org and https://element.io.<br>
-I often get asked: "*If Matrix is so super awesome, why didn't you start using it earlier?*"<br>
-Well actually I've been using Matrix for quite a long time now. I never really thought about using it for this Discord stuff.
-</details>
-
-Here's the invite to the community: https://matrix.to/#/#discord-oxygen:matrix.org
-
-The main community is on Matrix, most channels are encrypted and can only be accessed from within Matrix.
-For those of you who can't use Matrix, we've created a Discord server. It's bridged to the community. (Every message you send in Discord automatically appears in Matrix and vice-versa.)<br>
-Here's the invite link: https://discord.gg/m8jbrkzExz (4th server)<br>
-
-
-Please don't use console hacks not sent by me, or you might risk losing your account.<br>
-I'll update this invite regularly, if for example my account gets compromised or Discord shuts down the server. If something like that occurs, I will create a new account, a new server and then update the invite above.<br>
-If the invite doesn't work anymore, it means the server got deleted and you need to wait until I can create a new account.
-
-***
 
 ## Inner workings of Discord
 
