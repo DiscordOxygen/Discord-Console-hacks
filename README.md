@@ -100,7 +100,7 @@ It only works on web and desktop versions (Windows, Linux, MacOS), not on mobile
 
 ### Obtain your Token
 
-Shows this token to you..<br>
+Shows your token to you.<br>
 **:warning: DO NOT GIVE THIS TO ANYONE. It grants full access to your account.**
 
 <details>
